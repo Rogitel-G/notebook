@@ -11,6 +11,7 @@ Spring Boot приложение (Telegram bot), на данный момент 
 
 ### Установка
 Состав: Spring Boot, Java 17, Maven
+
 Зависимости, кроме базовых: 
 ```
 <dependency>
