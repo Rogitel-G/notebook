@@ -29,7 +29,7 @@ public class NotebookBot extends TelegramLongPollingBot {
     private static final Logger log = LoggerFactory.getLogger(NotebookBot.class);
 
     // id нашего личного аккаунта Telegram
-    private final Long myId = 1436375463L;
+    private final Long myId = **********L;
 
     // путь к файлу, в который будут сохранятся сообщения (если файлв нет, то будет
     // создан автоматически)
@@ -62,13 +62,13 @@ public class NotebookBot extends TelegramLongPollingBot {
     // возвращаем имя бота, этот и ниже методы служебные, без них работать не будет
     @Override
     public String getBotUsername() {
-        return "NotebookReallyTestBot";
+        return "name_of_your_bot";
     }
 
     // возвращаем токен бота
     @Override
     public String getBotToken() {
-        return "7943334136:AAEoUJN4VWCKpyeuyWCYBEt9aGwJezeoNlM";
+        return "token_of_your_bot";
     }
 
     // метод работы с файлом
@@ -89,8 +89,7 @@ public class NotebookBot extends TelegramLongPollingBot {
 
         FileWriter writer;
         try {
-            // собираем шаблон для сохранения, добавляем дату и время, выполняем перенос
-            // строки для разделения сообщений
+            // собираем шаблон для сохранения, добавляем дату и время, перенос строки
             date = new Date();
             writer = new FileWriter(path, true);
             writer.write(date.toString());
