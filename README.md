@@ -3,7 +3,7 @@
 ##
 ### Ссылки 
 <img src="https://cdn-icons-png.flaticon.com/16/3670/3670147.png" alt="YouTube" style="vertical-align: middle;"/> YouTube - [Rogitel](https://www.youtube.com/@Rogitel)   
-<img src="https://www.flaticon.com/free-icon-font/github_6424084?page=1&position=1&term=github&origin=search&related_id=6424084" alt="GitHub" style="vertical-align: middle;"/>GitHub - [Rogitel-G](https://github.com/Rogitel-G)  
+🚀 GitHub - [Rogitel-G](https://github.com/Rogitel-G)  
 **Будут рад ⭐ поставленной звезде (в правом верхнем углу) у репозитория 🙂, присоединяйся к [списку](https://github.com/Rogitel-G/notebook/stargazers) поддержавших**   
 ##
 > [!NOTE]
