@@ -1,8 +1,0 @@
-2024-11-07T14:44:38.502+03:00  INFO 17784 --- [notebook] [main] c.rogitel.notebook.NotebookApplication   : Starting NotebookApplication using Java 17.0.7 with PID 17784 (C:\Users\Admin\Desktop\Java\notebook\notebook\target\classes started by Admin in C:\Users\Admin\Desktop\Java\notebook)
-2024-11-07T14:44:38.506+03:00  INFO 17784 --- [notebook] [main] c.rogitel.notebook.NotebookApplication   : No active profile set, falling back to 1 default profile: "default"
-2024-11-07T14:44:39.808+03:00  INFO 17784 --- [notebook] [main] c.rogitel.notebook.NotebookApplication   : Started NotebookApplication in 1.732 seconds (process running for 2.096)
-2024-11-07T14:44:47.528+03:00  INFO 17784 --- [notebook] [NotebookReallyTestBot Telegram Executor] com.rogitel.notebook.NotebookBot         : We received a new message
-2024-11-07T14:44:47.529+03:00  INFO 17784 --- [notebook] [NotebookReallyTestBot Telegram Executor] com.rogitel.notebook.NotebookBot         : Incorrect ChatId != myId
-2024-11-07T14:45:25.940+03:00  INFO 11504 --- [notebook] [main] c.rogitel.notebook.NotebookApplication   : Starting NotebookApplication using Java 17.0.7 with PID 11504 (C:\Users\Admin\Desktop\Java\notebook\notebook\target\classes started by Admin in C:\Users\Admin\Desktop\Java\notebook)
-2024-11-07T14:45:25.944+03:00  INFO 11504 --- [notebook] [main] c.rogitel.notebook.NotebookApplication   : No active profile set, falling back to 1 default profile: "default"
-2024-11-07T14:45:27.272+03:00  INFO 11504 --- [notebook] [main] c.rogitel.notebook.NotebookApplication   : Started NotebookApplication in 1.715 seconds (process running for 2.066)
